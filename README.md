@@ -1,12 +1,10 @@
-# OpenFaaS Rust Template
-
-This was featured in a blog post I wrote: https://booyaa.wtf/2018/run-rust-in-openfaas/
+# OpenFaaS Java11 ARM64 Template
 
 ## Usage
 
 ```shell
-faas-cli template pull https://github.com/booyaa/openfaas-rust-template
-faas-cli new trustinrust --language rust
+faas-cli template pull https://github.com/verygoodsecurity/openfaas-java11-arm-template
+faas-cli new trustinrust --language java11-arm
 ```
 
 ## License
