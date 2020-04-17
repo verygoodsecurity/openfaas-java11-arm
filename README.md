@@ -4,7 +4,7 @@
 
 ```shell
 faas-cli template pull https://github.com/verygoodsecurity/openfaas-java11-arm-template
-faas-cli new trustinrust --language java11-arm
+faas-cli new example-fn --lang java11-arm64
 ```
 
 ## License
